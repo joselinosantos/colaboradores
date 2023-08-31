@@ -1,7 +1,7 @@
 # Colaboradores
 ## Cards de colaboradores 
 
-![Colaboradores](https://github.com/joselinosantos/colaboradores/blob/main/src/assets/images/cards.png)
+![Colaboradores](https://github.com/joselinosantos/colaboradores/blob/master/src/assets/images/cards.png)
 
 Angular version: 14.2.3.
 
