@@ -1,0 +1,17 @@
+<section>
+    <header>
+        <h1>Colaboradores</h1>
+    </header>
+
+    <div class="content">
+        <app-card
+            *ngFor="let colaborador of listaColaboradores"
+            name="{{ colaborador.name }}"
+            start="{{ colaborador.start }}"
+            function="{{ colaborador.function }}"
+            src="../../../assets/images/{{ colaborador.image }}"
+            alt="Imagem do colaborador {{ colaborador.name }}"
+            >
+        </app-card>
+    </div>
+</section>

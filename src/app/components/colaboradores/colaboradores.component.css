@@ -1,0 +1,22 @@
+section {
+  color: #abf7ff;
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+}
+
+section header {
+  padding: 40px 0;
+}
+
+section h1 {
+  text-transform: uppercase;
+  font-size: 3em;
+  font-weight: 1;
+  text-shadow: 0 0 10px #39777d;
+}
+
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
