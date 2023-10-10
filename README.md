@@ -3,6 +3,8 @@
 
 ![Colaboradores](https://github.com/joselinosantos/colaboradores/blob/master/src/assets/images/cards.png)
 
+Link para acessar a aplicação: [Colaboradores](https://desenvolvedorjs.com/prj/colabs/)
+
 Angular version: 14.2.3.
 
 ## Development server
