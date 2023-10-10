@@ -36,10 +36,10 @@ export class ColaboradoresService {
     },
     {
       "id": 4,
-      "name": "Valéria Silva",
-      "start": "06-11-2009",
-      "function": "UX",
-      "image": "colab4.jpeg",
+      "name": "Luciana Evelyn",
+      "start": "20-04-2007",
+      "function": "Gerente",
+      "image": "colab5.jpeg",
     },
   ];
 
